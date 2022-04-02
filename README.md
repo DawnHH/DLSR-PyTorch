@@ -1,6 +1,6 @@
 # DLSR-PyTorch
 
-This repository is an implementation of the paper "Lightweight Image Super-Resolution with Hierarchical and Differentiable Neural Search".
+This repository is an implementation of the paper "Lightweight Image Super-Resolution with Hierarchical and Differentiable Neural Search".https://arxiv.org/pdf/2105.03939.pdf
 
 The code is based on:
 
